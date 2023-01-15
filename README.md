@@ -10,3 +10,4 @@ Language: Typescript
 ## TODO: 
 Setup Tailwind  
 Setup Testing  
+Setup Code Quality with CI pipelines  
